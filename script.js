@@ -57,3 +57,8 @@ tombol.onclick = function () {
   const vs = document.querySelector('#vs');
   vs.innerHTML = `VS`;
 };
+
+// let objectPlayer = document.querySelector('#player')
+// objectPlayer.addEventListener('click', (e) => {
+// objectPlayer.classList.add('active')
+// })
