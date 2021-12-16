@@ -1,2 +1,2 @@
-# Binar-CP4
-Challenge cp4_Ryan_widhistira_FSW12
+# game rock papper scissors with java script
+
